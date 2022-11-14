@@ -10,7 +10,7 @@ button {
     border-width: 2px;
     cursor: pointer;
     margin: 1rem;
-    width: 100%
+    width: 10rem;
   }
   
   button:hover {

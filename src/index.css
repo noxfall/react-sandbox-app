@@ -10,30 +10,23 @@ body {
   font-family: monospace, sans-serif;
 }
 
-h1 {
-  color: rgb(20, 158, 202)
-}
-
-.myApp {
-  margin: .4rem;
+.header {
   display: flex;
-  flex-wrap: wrap;
-  flex-direction: column;
-  align-items: center;
-}
-
-.wrapper {
-  height: 30vh;
+  justify-content: center;
+  width: 100%;
+  color: #00ffff;
+  padding: .5rem;
 }
 
 .actions {
   display: flex;
   flex-direction: column;
   align-items: center;
+  padding-top: 18rem;
 }
 
 .counter {
   font-size: 5rem;
   margin-bottom: 3rem;
-  color: aqua;
+  color: #00ffff;
 }
